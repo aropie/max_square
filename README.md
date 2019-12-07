@@ -5,16 +5,17 @@ submatrix is one of equal width and height.
 
 For example, for the following matrix:
 
-1 0 1 0 0
-1 0 1 1 1
-1 1 1 1 1
+1 0 1 0 0\
+1 0 1 1 1\
+1 1 1 1 1\
 1 0 0 1 0
 
 You can see that the largest square submatrix is
-of size 2x2, so max_square.py returns the area which is 4.
+of size 2x2, so `max_square.py` returns the area which is 4.
 
-`max_square.py` will take its array input from a text file, or+
-if an input file is not given, it will take it from stdin.
+`max_square.py` will take its array input from a text file with the
+flag `-i`, or if an input file is not given, it will take it from
+stdin.
 
 **Python 3 is required to run this.**
 ```
