@@ -24,3 +24,5 @@ optional arguments:
   -h, --help            Show this help message and exit
   -i [INPUT_FILE]       Input file to process. Will use stdin if ommited
 ```
+
+On `examples`, you can find several example files to run.
