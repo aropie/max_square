@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """
 Have the function maximum_square(array) take the array parameter
 being passed which will be a 2D matrix of 0 and 1's, and determine the
