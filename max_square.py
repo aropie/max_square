@@ -85,8 +85,8 @@ def main():
 
     array = args.input_file.read().splitlines()
     area = maximum_square(array)
-    print(f'\nFor array:\n{prettify_array(array)}')
-    print(f'The area of the maximum subsquare is {area}')
+    print('\nFor array:\n{}'.format(prettify_array(array)))
+    print('The area of the maximum subsquare is {}'.format(area))
 
 
 if __name__ == '__main__':

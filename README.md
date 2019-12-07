@@ -15,6 +15,8 @@ of size 2x2, so max_square.py returns the area which is 4.
 
 `max_square.py` will take its array input from a text file, or+
 if an input file is not given, it will take it from stdin.
+
+**Python 3 is required to run this.**
 ```
 usage: python3 max_square.py [-h] [-i [INPUT_FILE]]
 
